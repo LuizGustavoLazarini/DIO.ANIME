@@ -1,5 +1,6 @@
 # DIO.ANIME
 Criando um APP simples de Cadastro de Animes em .net
+
 Alterações
   Na lista de generos (pois animes tem uma maior variedade de categorias)
   No lugar de excluir troquei para Assistido ou Visto
